@@ -52,4 +52,4 @@ Throughout the internship, you'll encounter some key insights, including:
 - Handling Outliers: As part of the process, you will address 15 outliers in the dataset, improving data quality.
 
 # Conclusion
-Thank you for exploring our Technohacks Edutech Data Analytics Internship repository. We hope you find this experience insightful and valuable as you embark on your data analytics journey. Should you have any questions or need further guidance, please don't hesitate to reach out.
+Thank you for exploring our Technohacks Edutech Data Analytics Internship repository. We hope you find this experience insightful and valuable as you embark on your data analytics journey. Please don't hesitate to contact us if you need further assistance or if you have any questions.
