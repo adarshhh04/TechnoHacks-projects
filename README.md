@@ -1,4 +1,4 @@
-# Technohacks-Edutech-Data-Analytics-Internship
+# Technohacks Edutech Data Analytics Internship
 Author: Adarsh Mishra  
 Batch: 43  
 Domain: Data Analytics   
